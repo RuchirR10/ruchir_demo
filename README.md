@@ -1,3 +1,3 @@
 # ruchir_demo
-Author: Ruchir Ijate
+Author: Ruchir Ijate <br>
 First Github repository
